@@ -1,25 +1,26 @@
-# Antoine Coutreel : Développeur Full-Stack en devenir
+# Antoine Coutreel : Développeur web a en devenir
 
 > [!IMPORTANT]
 > **En constante évolution !** Attendez-vous à des mises à jour fréquentes de mon portfolio. N'hésitez pas à revenir régulièrement ! 
 
 ## Mon parcours
 
-* **Août -> Octobre 2019 :** CAP Cuisine - Découverte du monde culinaire et développement de compétences en travail d'équipe et gestion du temps.
-* **Octobre 2019 -> Juin 2022 :** Bac STI2D (mention Assez bien) - Maîtrise des fondamentaux en sciences industrielles, mathématiques et informatique, avec une spécialisation en développement durable.
-* **Janvier -> Mars 2024 :** Stage Développeur Full-Stack au [Cercle des Informaticiens Dispersés (CID)](http://cid.iut-amiens.fr/) - Mise en pratique des compétences en programmation web, collaboration au sein d'une équipe agile. 
-* **Juin 2022 -> Aujourd'hui :** BUT Informatique à l'IUT d'Amiens - Approfondissement des connaissances en informatique, développement de projets complexes et préparation à l'insertion professionnelle.
+* **Août -> Octobre 2019** : CAP Cuisine - Découverte du monde culinaire et développement de compétences en travail d'équipe et gestion du temps.
+* **Octobre 2019 -> Juin 2022** : Bac STI2D (mention Assez bien) - Maîtrise des fondamentaux en sciences industrielles, mathématiques et informatique, avec une spécialisation en développement durable.
+* **Janvier -> Mars 2024** : Stage Développeur web au [Cercle des Informaticiens Dispersés (CID)](https://cid.iut-amiens.fr/) - Mise en pratique des compétences en programmation web, collaboration au sein d'une équipe agile.
+* **Août 2024 -> Aujourd'hui** : Alternance Développeur & Administrateur réseau au [Collège Saint-Jospeh](https://college-saint-joseph.com/)= - Mise en pratique des compétences en programmation web et applicatif, collaboration au sein d'une équipe.
+* **Juin 2022 -> Aujourd'hui** : BUT Informatique à l'IUT d'Amiens - Approfondissement des connaissances en informatique, développement de projets complexes et préparation à l'insertion professionnelle.
 
 ## Contact
 
-* [LinkedIn](https://www.linkedin.com/pub/dir/Eva/Antoine)
-* [Instagram](https://www.instagram.com/antoinedelie_off/reels/)
+* [LinkedIn](https://linkedin.com/in/antoine-coutreel)
+* [Instagram](https://www.instagram.com/anto_coutrl/)
 * [Envoyer un email](mailto:coutreelantoine@gmail.com)
 
 ## Compétences
 
 * **Langages de programmation :** Java, C++, Javascript, HTML/CSS, PHP
-* **Frameworks :** React, Vue.JS, Bootstrap
+* **Frameworks :** Next.js, React, Vue.JS, Bootstrap, Tailwind CSS
 * **Librairies :** PHPMailer
 * **SGBD :** PostgreSQL, MySQL, Oracle
 * **Outils :** Git, GitHub, Docker
