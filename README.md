@@ -1,4 +1,4 @@
-# Antoine Coutreel : Développeur web a en devenir
+# Antoine Coutreel : Développeur web à en devenir
 
 > [!IMPORTANT]
 > **En constante évolution !** Attendez-vous à des mises à jour fréquentes de mon portfolio. N'hésitez pas à revenir régulièrement ! 
