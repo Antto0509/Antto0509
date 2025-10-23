@@ -1,56 +1,92 @@
-# Antoine Coutreel : Développeur web à en devenir
+# 👋 Antoine Coutreel — Développeur web freelance
 
 > [!IMPORTANT]
-> **En constante évolution !** Attendez-vous à des mises à jour fréquentes de mon portfolio. N'hésitez pas à revenir régulièrement ! 
+> **Toujours en évolution 🚀**  
+> Mon portfolio et mes projets sont régulièrement mis à jour.  
+> 👉 [www.antoine-coutreel.fr](https://www.antoine-coutreel.fr)
 
-## Mon parcours
+---
 
-* **Août -> Octobre 2019** : CAP Cuisine - Découverte du monde culinaire et développement de compétences en travail d'équipe et gestion du temps.
-* **Octobre 2019 -> Juin 2022** : Bac STI2D (mention Assez bien) - Maîtrise des fondamentaux en sciences industrielles, mathématiques et informatique, avec une spécialisation en développement durable.
-* **Janvier -> Mars 2024** : Stage Développeur web au [Cercle des Informaticiens Dispersés (CID)](https://cid.iut-amiens.fr/) - Mise en pratique des compétences en programmation web, collaboration au sein d'une équipe agile.
-* **Août 2024 -> Aujourd'hui** : Alternance Développeur & Administrateur réseau au [Collège Saint-Jospeh](https://college-saint-joseph.com/) - Mise en pratique des compétences en programmation web et applicatif, collaboration au sein d'une équipe.
-* **Juin 2022 -> Aujourd'hui** : BUT Informatique à l'IUT d'Amiens - Approfondissement des connaissances en informatique, développement de projets complexes et préparation à l'insertion professionnelle.
+## 🧭 Parcours
 
-## Contact
+* **Depuis 2025** — **Développeur web freelance**  
+  J’accompagne entreprises, indépendants et associations dans la création de sites web modernes, performants et adaptés à leurs besoins.
 
-* [LinkedIn](https://linkedin.com/in/antoine-coutreel)
-* [Instagram](https://www.instagram.com/anto_coutrl/)
-* [Envoyer un email](mailto:coutreelantoine@gmail.com)
+* **Août 2024 → Août 2025** — Alternance — Développeur web au [Collège Saint-Joseph](https://www.college-saint-joseph.com)  
+  Développement web et applicatif, maintenance d’infrastructure et collaboration sur divers projets internes.
 
-## Compétences
+* **Janvier → Mars 2024** — Stage — Développeur web au [CID – Cercle des Informaticiens Dispersés](https://www.cid-amiens.fr/)  
+  Réalisation du site dde l'association : installation de la stack technique (PHP, Bootstrap, PostgreSQL), conception de la base de données et développement complet du site.
 
-* **Langages de programmation :** Java, C++, Javascript, HTML/CSS, PHP
-* **Frameworks :** Next.js, React, Vue.JS, Bootstrap, Tailwind CSS
-* **Librairies :** PHPMailer
-* **SGBD :** PostgreSQL, MySQL, Oracle
-* **Outils :** Git, GitHub, Docker
-* **Outils de gestion de projet :** Trello, Jira
-* **Langues :** Français (maternel), Anglais (base)
+* **Juin 2022 → Juin 2025** — BUT Informatique, IUT d’Amiens  
+  Formation complète en développement web, conception logicielle et gestion de projets.
 
-## À propos de moi
+* **Octobre 2019 → Juin 2022** — Bac STI2D (mention Assez Bien), Lycée polyvalent Lamarck à Albert  
+  Approche technique et scientifique, avec un intérêt croissant pour l’informatique.
 
-Je suis un étudiant passionné par la création d'applications web et mobiles innovantes. J'ai une forte capacité d'apprentissage et je suis toujours à la recherche de nouveaux défis. Je suis également un excellent joueur d'équipe et je communique efficacement avec les autres.
+---
 
-Mon objectif est de devenir un développeur accompli et de contribuer à des projets qui ont un impact positif sur le monde.
+## 🧩 Compétences
 
-## Témoignages
+* **Langages :** Java, C++, JavaScript, PHP, HTML/CSS  
+* **Frameworks :** Next.js, React, Vue.js, Bootstrap, Tailwind CSS  
+* **Bases de données :** PostgreSQL, MySQL, Oracle  
+* **Outils :** Git, GitHub, Docker, VSCode  
+* **Gestion de projet :** Trello, Jira  
+* **Langues :** Français (natif), Anglais (niveau professionnel)
 
-"J’ai été le tuteur d’Antoine pour son premier stage en informatique (niveau BAC+2).
+---
 
-D’un point de vue attitude, il s’est montré très autonome et surtout mature, pour son âge. 
+## 💬 À propos
 
-D’un point de vue technique, il a installé toute la stack technique pour construire le site web demandé, en faisant ses propres choix (php,bootstrap,postgreSQL). Il a ensuite conçu et réalisé le site de A à Z (conception bdd, design web, pages Php, etc.).
+Développeur web diplômé, passionné par la création d’expériences numériques simples, performantes et élégantes.  
+J’aime comprendre les besoins des utilisateurs, concevoir des solutions claires et livrer des sites rapides et bien structurés.  
 
-Il a su utiliser les outils collaboratifs à disposition : Git et JIRA.
+Mon objectif : **créer des sites qui attirent, rassurent et convertissent.**
 
-Le résultat est là : le site du CID est en ligne et déjà une centaine d’inscrits après quelques jours.
+> 🔗 Découvrez mes réalisations : [www.antoine-coutreel.fr](https://www.antoine-coutreel.fr)
 
-Je suis très content de son travail, de son attitude et du résultat." - Alexandre Carpentier
+---
 
-## Intérêts
+## 💡 Témoignage
 
-* **Programmation** (évidemment !)
-* **Jeux vidéo**
-* **Lecture**
-* **Voyages**
-* **Cuisine**
+> "J’ai eu la chance d’avoir Antoine COUTREEL dans mon équipe et je peux dire sans hésitation qu’il a été un atout majeur pour nos projets.  
+> Toujours professionnel, rigoureux et orienté résultats, Antoine a su rapidement comprendre les enjeux, proposer des solutions pertinentes et collaborer efficacement avec l’ensemble de l’équipe.  
+> 
+> Son sens de l’organisation, sa capacité à prioriser et son esprit d’équipe ont eu un impact concret sur la réussite de nos missions. Au-delà de ses compétences techniques, j’ai particulièrement apprécié son attitude positive et son engagement, qui ont largement contribué à créer une dynamique de travail agréable et motivante.  
+> 
+> Je recommande vivement Antoine COUTREEL à toute organisation qui recherche une personne fiable, compétente et impliquée."  
+> — **Gaëtan Henry**, le 15 septembre 2025
+
+> “J’ai été le tuteur d’Antoine pour son premier stage en informatique (niveau BAC+2).
+>   
+> D’un point de vue attitude, il s’est montré très autonome et surtout mature, pour son âge.
+> 
+> D’un point de vue technique, il a installé toute la stack technique pour construire le site web demandé, en faisant ses propres choix (PHP, Bootstrap, PostgreSQL). Il a ensuite conçu et réalisé le site de A à Z (conception BDD, design web, pages PHP, etc.).
+> 
+> Il a su utiliser les outils collaboratifs à disposition : Git et Jira.  
+> 
+> Le résultat est là : le site du CID est en ligne et déjà une centaine d’inscrits après quelques jours.  
+> 
+> Je suis très content de son travail, de son attitude et du résultat.”  
+> — **Alexandre Carpentier**, le 15 mars 2024
+
+---
+
+## 🎯 Centres d’intérêt
+
+* Développement web et design minimaliste  
+* Jeux vidéo & nouvelles technologies  
+* Lecture & veille tech  
+* Voyages & cuisine
+
+---
+
+## 📬 Me contacter
+
+* 🌐 [www.antoine-coutreel.fr](https://www.antoine-coutreel.fr)
+* 💼 [LinkedIn](https://www.linkedin.com/in/antoine-coutreel)
+* 📸 [Instagram](https://www.instagram.com/anto_coutrl/)
+* ✉️ [coutreelantoine@gmail.com](mailto:coutreelantoine@gmail.com)
+
+---
