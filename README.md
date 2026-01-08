@@ -50,13 +50,20 @@ Mon objectif : **créer des sites qui attirent, rassurent et convertissent.**
 
 ## 💡 Témoignage
 
+> "Antoine a de bonnes compétences en développement php et gestion des versions. Il sait rapidement comprendre un cahier de charges et y répondre de manière efficace."  
+> — **Jean Heimburger**, client, le 17 décembre 2025
+
+---
+
 > "J’ai eu la chance d’avoir Antoine COUTREEL dans mon équipe et je peux dire sans hésitation qu’il a été un atout majeur pour nos projets.  
 > Toujours professionnel, rigoureux et orienté résultats, Antoine a su rapidement comprendre les enjeux, proposer des solutions pertinentes et collaborer efficacement avec l’ensemble de l’équipe.  
 > 
 > Son sens de l’organisation, sa capacité à prioriser et son esprit d’équipe ont eu un impact concret sur la réussite de nos missions. Au-delà de ses compétences techniques, j’ai particulièrement apprécié son attitude positive et son engagement, qui ont largement contribué à créer une dynamique de travail agréable et motivante.  
 > 
 > Je recommande vivement Antoine COUTREEL à toute organisation qui recherche une personne fiable, compétente et impliquée."  
-> — **Gaëtan Henry**, le 15 septembre 2025
+> — **Gaëtan Henry**, maître d'apprentissage, le 15 septembre 2025
+
+---
 
 > “J’ai été le tuteur d’Antoine pour son premier stage en informatique (niveau BAC+2).
 >   
@@ -69,7 +76,7 @@ Mon objectif : **créer des sites qui attirent, rassurent et convertissent.**
 > Le résultat est là : le site du CID est en ligne et déjà une centaine d’inscrits après quelques jours.  
 > 
 > Je suis très content de son travail, de son attitude et du résultat.”  
-> — **Alexandre Carpentier**, le 15 mars 2024
+> — **Alexandre Carpentier**, maître de stage, le 15 mars 2024
 
 ---
 
