@@ -1,99 +1,104 @@
-# 👋 Antoine Coutreel — Développeur web freelance
+# Antoine Coutreel — Développeur Full Stack · Fondateur de la Method ELEVATE
 
-> [!IMPORTANT]
-> **Toujours en évolution 🚀**  
-> Mon portfolio et mes projets sont régulièrement mis à jour.  
-> 👉 [www.antoine-coutreel.fr](https://www.antoine-coutreel.fr)
+> Je transforme des offres floues en landing pages B2B compréhensibles en 10 secondes —  
+> en fusionnant développement technique et copywriting stratégique.
 
 ---
 
-## 🧭 Parcours
+## 👋 Qui suis-je ?
 
-* **Depuis 2025** — **Développeur web freelance**  
-  J’accompagne entreprises, indépendants et associations dans la création de sites web modernes, performants et adaptés à leurs besoins.
+Je suis Antoine, développeur Full Stack freelance basé à Amiens, fondateur de **[Reelium](https://www.antoine-coutreel.fr)**.
 
-* **Août 2024 → Août 2025** — Alternance — Développeur web au [Collège Saint-Joseph](https://www.college-saint-joseph.com)  
-  Développement web et applicatif, maintenance d’infrastructure et collaboration sur divers projets internes.
+Mon obsession : la clarté. Pas la beauté visuelle, pas les animations CSS (même si j'aime ça). La clarté.
 
-* **Janvier → Mars 2024** — Stage — Développeur web au [CID – Cercle des Informaticiens Dispersés](https://www.cid-amiens.fr/)  
-  Réalisation du site dde l'association : installation de la stack technique (PHP, Bootstrap, PostgreSQL), conception de la base de données et développement complet du site.
+Un visiteur qui ne connaît pas ton entreprise doit comprendre ce que tu fais, pour qui, et pourquoi te faire confiance — **en moins de 10 secondes**. Si ce n'est pas le cas, le reste ne sert à rien.
 
-* **Juin 2022 → Juin 2025** — BUT Informatique, IUT d’Amiens  
-  Formation complète en développement web, conception logicielle et gestion de projets.
-
-* **Octobre 2019 → Juin 2022** — Bac STI2D (mention Assez Bien), Lycée polyvalent Lamarck à Albert  
-  Approche technique et scientifique, avec un intérêt croissant pour l’informatique.
+Ce principe est opérationnalisé via la **Method ELEVATE**, mon framework propriétaire en 7 étapes pour construire des landing pages B2B qui convertissent.
 
 ---
 
-## 🧩 Compétences
+## ⚡ Ce que je fais concrètement
 
-* **Langages :** Java, C++, JavaScript, PHP, HTML/CSS  
-* **Frameworks :** Next.js, React, Vue.js, Bootstrap, Tailwind CSS  
-* **Bases de données :** PostgreSQL, MySQL, Oracle  
-* **Outils :** Git, GitHub, Docker, VSCode  
-* **Gestion de projet :** Trello, Jira  
-* **Langues :** Français (natif), Anglais (niveau professionnel)
+Je ne vends pas des sites web. Je construis des **actifs de conversion** pour les PME et SaaS B2B qui ont une offre solide mais une présence en ligne qui ne la reflète pas.
 
----
+Mon périmètre d'intervention :
 
-## 💬 À propos
-
-Développeur web diplômé, passionné par la création d’expériences numériques simples, performantes et élégantes.  
-J’aime comprendre les besoins des utilisateurs, concevoir des solutions claires et livrer des sites rapides et bien structurés.  
-
-Mon objectif : **créer des sites qui attirent, rassurent et convertissent.**
-
-> 🔗 Découvrez mes réalisations : [www.antoine-coutreel.fr](https://www.antoine-coutreel.fr)
+- **Audit de présence en ligne** — ce qui bloque, ce qui manque, ce qui coûte des leads
+- **Architecture narrative** — structurer le message avant d'écrire une ligne de code
+- **Développement Full Stack** — Next.js, React, TypeScript, Node.js, PostgreSQL
+- **Optimisation SEO on-page** et tracking de conversion
+- **Documentation technique complète** — pour que tu ne dépenddes jamais d'un seul prestataire
 
 ---
 
-## 💡 Témoignage
+## 🧠 La Method ELEVATE
 
-> "Antoine a de bonnes compétences en développement php et gestion des versions. Il sait rapidement comprendre un cahier de charges et y répondre de manière efficace."  
-> — **Jean Heimburger**, client, le 17 décembre 2025
+Un framework en 7 étapes pour rendre une offre compréhensible par un visiteur froid en moins de 10 secondes.
 
----
+| # | Étape | Objectif |
+|---|-------|----------|
+| **E** | Expose the core problem | Formuler le problème dans les mots du prospect — pas ceux de l'entreprise |
+| **L** | Lock the promise | Cristalliser la promesse en une phrase mesurable, sans jargon |
+| **E** | Evidence the result | Identifier la preuve la plus percutante et la placer au bon endroit |
+| **V** | Verbalize the mechanism | Expliquer le "comment" en une phrase — sans sur-expliquer |
+| **A** | Align the audience | Qualifier qui est ciblé (et qui ne l'est pas) |
+| **T** | Trigger the next step | Définir le CTA à friction zéro pour le stade de décision du visiteur |
+| **E** | Eliminate the friction | Neutraliser les 2–3 objections silencieuses restantes |
 
-> "J’ai eu la chance d’avoir Antoine COUTREEL dans mon équipe et je peux dire sans hésitation qu’il a été un atout majeur pour nos projets.  
-> Toujours professionnel, rigoureux et orienté résultats, Antoine a su rapidement comprendre les enjeux, proposer des solutions pertinentes et collaborer efficacement avec l’ensemble de l’équipe.  
-> 
-> Son sens de l’organisation, sa capacité à prioriser et son esprit d’équipe ont eu un impact concret sur la réussite de nos missions. Au-delà de ses compétences techniques, j’ai particulièrement apprécié son attitude positive et son engagement, qui ont largement contribué à créer une dynamique de travail agréable et motivante.  
-> 
-> Je recommande vivement Antoine COUTREEL à toute organisation qui recherche une personne fiable, compétente et impliquée."  
-> — **Gaëtan Henry**, maître d'apprentissage, le 15 septembre 2025
-
----
-
-> “J’ai été le tuteur d’Antoine pour son premier stage en informatique (niveau BAC+2).
->   
-> D’un point de vue attitude, il s’est montré très autonome et surtout mature, pour son âge.
-> 
-> D’un point de vue technique, il a installé toute la stack technique pour construire le site web demandé, en faisant ses propres choix (PHP, Bootstrap, PostgreSQL). Il a ensuite conçu et réalisé le site de A à Z (conception BDD, design web, pages PHP, etc.).
-> 
-> Il a su utiliser les outils collaboratifs à disposition : Git et Jira.  
-> 
-> Le résultat est là : le site du CID est en ligne et déjà une centaine d’inscrits après quelques jours.  
-> 
-> Je suis très content de son travail, de son attitude et du résultat.”  
-> — **Alexandre Carpentier**, maître de stage, le 15 mars 2024
+→ [Voir la méthode complète](https://www.antoine-coutreel.fr/methode-elevate)
 
 ---
 
-## 🎯 Centres d’intérêt
+## 🛠️ Stack technique
 
-* Développement web et design minimaliste  
-* Jeux vidéo & nouvelles technologies  
-* Lecture & veille tech  
-* Voyages & cuisine
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Projets sélectionnés
+
+### [InvoiceFlow](https://invoice-flow.reelium.fr/) — SaaS de facturation pour indépendants
+Gestion complète de clients, devis, factures, avoirs et paiements. Architecture sécurisée, évolutive, pensée pour les freelances et PME françaises.  
+`Next.js` `TypeScript` `PostgreSQL` `Stripe`
+
+### [FlowSlides](https://flow-slides.reelium.fr/) — Générateur de carrousels LinkedIn & Instagram
+Transforme du contenu textuel en carrousels visuels professionnels, sans compétences en design.  
+`React` `Next.js` `Tailwind CSS`
+
+### [Landing Page Template](https://landing-page-virid-six-27.vercel.app/) — Démonstration de mon approche
+Un template Next.js conçu pour illustrer ce qu'une landing page professionnelle peut livrer : design, animations, sections stratégiques, performance.  
+`Next.js` `Tailwind CSS` `Vercel`
+
+---
+
+## 💬 Témoignages
+
+> *"Antoine a de bonnes compétences en développement php et gestion des versions. Il sait rapidement comprendre un cahier de charges et y répondre de manière efficace."*  
+> — **Jean Heimburger**, client
+
+> *"Toujours professionnel, rigoureux et orienté résultats, Antoine a su rapidement comprendre les enjeux, proposer des solutions pertinentes et collaborer efficacement. Je recommande vivement."*  
+> — **Gaëtan Henry**, maître d'apprentissage
+
+> *"Il a installé toute la stack technique, conçu et réalisé le site de A à Z. Le résultat est là : le site du CID est en ligne avec déjà une centaine d'inscrits après quelques jours."*  
+> — **Alexandre Carpentier**, maître de stage
 
 ---
 
 ## 📬 Me contacter
 
-* 🌐 [www.antoine-coutreel.fr](https://www.antoine-coutreel.fr)
-* 💼 [LinkedIn](https://www.linkedin.com/in/antoine-coutreel)
-* 📸 [Instagram](https://www.instagram.com/anto_coutrl/)
-* ✉️ [coutreelantoine@gmail.com](mailto:coutreelantoine@gmail.com)
+Tu as une offre à clarifier, un projet de landing page, ou une question sur la Method ELEVATE ?
+
+- 🌐 [antoine-coutreel.fr](https://www.antoine-coutreel.fr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/antoine-coutreel)
+- 📧 [antoine.coutreel@reelium.fr](mailto:antoine.coutreel@reelium.fr)
+- 🗓️ [Prendre un appel de 15 min](https://meet.brevo.com/anto-coutrl) — sans engagement
 
 ---
+
+*La beauté ne convertit pas. La clarté convertit.*
