@@ -7,11 +7,11 @@
 
 ## 👋 Qui suis-je ?
 
-Je suis Antoine, développeur Full Stack freelance basé à Amiens, fondateur de **[Reelium](https://www.antoine-coutreel.fr)**.
+Je suis Antoine, développeur Full Stack freelance basé à Amiens, fondateur de **[Reelium](https://www.reelium.fr)**.
 
 Mon obsession : la clarté. Pas la beauté visuelle, pas les animations CSS (même si j'aime ça). La clarté.
 
-Un visiteur qui ne connaît pas ton entreprise doit comprendre ce que tu fais, pour qui, et pourquoi te faire confiance — **en moins de 10 secondes**. Si ce n'est pas le cas, le reste ne sert à rien.
+Un visiteur qui ne connaît pas ton entreprise doit comprendre ce que tu fais, pour qui, et pourquoi te faire confiance **en moins de 10 secondes**. Si ce n'est pas le cas, le reste ne sert à rien.
 
 Ce principe est opérationnalisé via la **Method ELEVATE**, mon framework propriétaire en 7 étapes pour construire des landing pages B2B qui convertissent.
 
@@ -44,8 +44,6 @@ Un framework en 7 étapes pour rendre une offre compréhensible par un visiteur 
 | **A** | Align the audience | Qualifier qui est ciblé (et qui ne l'est pas) |
 | **T** | Trigger the next step | Définir le CTA à friction zéro pour le stade de décision du visiteur |
 | **E** | Eliminate the friction | Neutraliser les 2–3 objections silencieuses restantes |
-
-→ [Voir la méthode complète](https://www.antoine-coutreel.fr/methode-elevate)
 
 ---
 
@@ -94,10 +92,11 @@ Un template Next.js conçu pour illustrer ce qu'une landing page professionnelle
 
 Tu as une offre à clarifier, un projet de landing page, ou une question sur la Method ELEVATE ?
 
-- 🌐 [antoine-coutreel.fr](https://www.antoine-coutreel.fr)
-- 💼 [LinkedIn](https://www.linkedin.com/in/antoine-coutreel)
+- 🌐 [reelium.fr](https://www.reelium.fr)
+- 💼 [antoine-coutreel.fr](https://www.antoine-coutreel.fr)
+- ℹ️ [LinkedIn](https://www.linkedin.com/in/antoine-coutreel)
 - 📧 [antoine.coutreel@reelium.fr](mailto:antoine.coutreel@reelium.fr)
-- 🗓️ [Prendre un appel de 15 min](https://meet.brevo.com/anto-coutrl) — sans engagement
+- 🗓️ [Prendre un appel de 30 min](https://meet.brevo.com/anto-coutrl) — sans engagement
 
 ---
 
